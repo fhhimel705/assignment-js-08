@@ -4,6 +4,7 @@
 
 ** Take these two object as input and give boolean output as if raju and farid  is best friend or not?
 */
+
 let arr1 = '55';
 let arr2 = '20';
 

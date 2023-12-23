@@ -5,6 +5,7 @@
 ** octane ==> 135.
 */
 
+
 function totalOilPrice(diesel, petrol, octane) {
   if ( typeof diesel === "number" && typeof petrol === "number" && typeof octane === "number" ) {
     let dieselTotalPrice = diesel * 114;
